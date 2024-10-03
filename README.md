@@ -15,8 +15,10 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesk1v9&layout=compact)
+
 💻 Developer with over 2 years of experience, passionate about technology and helping people.
 
-### Contact
+### Contact <br/>
 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) alexsander.rafael13@gmail.com
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      alexsander.rafael13@gmail.com
